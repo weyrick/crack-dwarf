@@ -1,0 +1,11 @@
+
+void second() {
+    array[int] a = {1};
+    a[999999] = 5;
+}
+
+void first() {
+    second();
+}
+
+first();

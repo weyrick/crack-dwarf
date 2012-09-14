@@ -1,0 +1,8 @@
+
+void foo() {
+  int fooVar = 5;
+  printint(fooVar);
+}
+
+foo();
+
